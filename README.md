@@ -2,10 +2,6 @@
 
 一个简单易用的 Alfred 时间戳转换工具，支持时间戳和标准时间格式之间的相互转换。
 
-## 作者
-
-[houde0820](https://github.com/houde0820)
-
 ## 功能特点
 
 - 显示当前时间和对应的时间戳
@@ -39,12 +35,6 @@ tt
 
 1. 下载 `Timestamp.alfredworkflow` 文件
 2. 双击安装到 Alfred
-
-## 系统要求
-
-- macOS
-- Alfred 4 或更高版本
-- Powerpack 许可证
 
 ## 许可证
 
